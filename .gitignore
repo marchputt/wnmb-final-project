@@ -1,0 +1,10 @@
+export/
+guetzli/
+jpeg/
+png/
+zlib/
+
+venv/
+
+*.zip
+*list.txt
